@@ -98,3 +98,7 @@ A full-stack web application built with **Angular** for the frontend and **Sprin
 - ✅ Add New Link  
 
 
+![LoginForm](https://github.com/user-attachments/assets/e088a472-9ede-4712-a2bb-07eee782c683)
+![RegistrationForm](https://github.com/user-attachments/assets/2fa3773f-b1e4-469b-8cac-7956b11cd838)
+![LinksDashboard](https://github.com/user-attachments/assets/aa10c33c-13dd-45b3-8f56-f4acc231f702)
+![AddLink Page](https://github.com/user-attachments/assets/13491c83-c82d-44be-97c4-d3d37eeba30a)
